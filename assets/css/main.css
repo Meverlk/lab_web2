@@ -109,7 +109,7 @@ nav.main-nav > ul li a {
 
 #hero-banner {
     height: 1080px;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 73.66%, #272635 93.94%), linear-gradient(0deg, rgba(61, 61, 61, 0.40) 0%, rgba(61, 61, 61, 0.40) 100%), url(/assets/img/hero-background.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 73.66%, #272635 93.94%), linear-gradient(0deg, rgba(61, 61, 61, 0.40) 0%, rgba(61, 61, 61, 0.40) 100%), url(../img/hero-background.png), lightgray 50% / cover no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -284,7 +284,7 @@ nav.main-nav > ul li a {
     justify-content: center;
     align-items: center;
     height: 500px;
-    background: linear-gradient(180deg, #272635 0%, rgba(0, 0, 0, 0.00) 49.48%, #272635 100%), url(/assets/img/teams-background.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(180deg, #272635 0%, rgba(0, 0, 0, 0.00) 49.48%, #272635 100%), url(../img/teams-background.png), lightgray 50% / cover no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -360,7 +360,7 @@ nav.main-nav > ul li a {
 
 .social-media {
     height: 1100px;
-    background: linear-gradient(180deg, #272635 0%, rgba(0, 0, 0, 0.00) 49.48%, #272635 100%), url(/assets/img/social-background.png);
+    background: linear-gradient(180deg, #272635 0%, rgba(0, 0, 0, 0.00) 49.48%, #272635 100%), url(../img/social-background.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
